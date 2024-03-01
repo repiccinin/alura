@@ -1,9 +1,3 @@
-# Projeto da Alura logica-js-projeto_inicial.
-
-
-## Deploy
-https://jogo-do-numero-secreto-inicial.vercel.app/
-
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,9 +10,3 @@ https://jogo-do-numero-secreto-inicial.vercel.app/
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/63248452?v=4" width=115><br><sub>Regiane Piccinin</sub>](https://github.com/repiccinin) |
 | :---: |
-
-------------------------
-#### Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
-
-[BoostNote Markdown Editor](https://boostnote.io/)
