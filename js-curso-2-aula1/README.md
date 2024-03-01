@@ -27,5 +27,5 @@ https://jogo-do-numero-secreto-sigma-olive.vercel.app/
 
 [BoostNote Markdown Editor](https://boostnote.io/)
 
-
+[Markdown Quick Reference](https://wordpress.com/support/markdown-quick-reference/)
 
