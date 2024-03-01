@@ -18,7 +18,7 @@ https://jogo-do-numero-secreto-sigma-olive.vercel.app/
 # Time
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/63248452?v=4" width=115><br><sub>Regiane Piccinin</sub>](https://github.com/repiccinin) |
-| :---: | :---: |
+| :---: |
 
 
 ------------------------
