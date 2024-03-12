@@ -1,6 +1,7 @@
 <h1>Portfolio</h1>
 <h2>🔖 Sobre</h2>
 <p>Projeto utilizado na formação "A partir do zero: HTML e CSS para projetos web".</p>
+https://portfolio-peach-chi-65.vercel.app/
 
 ## Figma
 https://www.figma.com/file/GAUMQpbSLpPsqWZ2aSET6m/Portfolio---Curso-1-(Copy)?type=design&node-id=1-11&mode=design&t=sY1RpDPAlXtbYu96-0
