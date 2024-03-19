@@ -1,7 +1,5 @@
 package br.com.alura.screenmatch.modelos;
 
-import java.lang.constant.Constable;
-
 public class Titulo implements Comparable<Titulo> {
     private String nome;
     private int anoDeLancamento;
@@ -31,7 +29,7 @@ public class Titulo implements Comparable<Titulo> {
         return duracaoEmMinutos;
     }
 
-    public int getTotalDeAvaliacoes(){
+    public int getTotalDeAvaliacoes() {
         return totalDeAvaliacoes;
     }
 
@@ -51,10 +49,9 @@ public class Titulo implements Comparable<Titulo> {
         this.duracaoEmMinutos = duracaoEmMinutos;
     }
 
-    public void exibeFichaTecnica() {
-        System.out.println("Nome do br.com.alura.screenmatch.modelos.Filme: " + nome);
-        System.out.println("Ano de Lançamento: " + anoDeLancamento);
-        System.out.println("Duracao: "+duracaoEmMinutos+" minutos");
+    public void exibeFichaTecnica(){
+        System.out.println("Nome do filme: " + nome);
+        System.out.println("Ano de lançamento: " + anoDeLancamento);
     }
 
     public void avalia(double nota){
