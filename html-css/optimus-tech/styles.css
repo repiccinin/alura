@@ -1,0 +1,8 @@
+@import url("styles/cabecalho.css");
+:root {
+    --cor-logo: #3A404E;
+    --cinza: #667085;
+    --vermelho: #8E2424;
+    --branco: #FFFFFF;
+    --fonte-logo: "Inter", sans-serif;
+}

@@ -13,6 +13,7 @@
     --fonte-principal: "Poppins";
     --azul: #002F52;
     --preto: #000000;
+    --fonte-secundaria: "Josefin Sans", sans-serif;
 }
 body{
     background-color: var(--cor-de-fundo);
