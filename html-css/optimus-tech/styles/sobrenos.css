@@ -1,0 +1,27 @@
+.sobre-nos {
+    display: flex;
+    flex-direction: column;
+}
+.sobre-nos__titulo {
+    color: var(--vermelho);
+    font-family: var(--fonte-logo);
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 4em;
+}
+.sobre-nos__subtitulo {
+    font-family: var(--fonte-logo);
+    font-weight: 600;
+    font-size: 48px;
+    color: var(--preto);
+    text-align: center;
+    margin: 1em 0;
+}
+.sobre-nos__descricao {
+    font-family: var(--fonte-logo);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: var(--cinza);
+}

@@ -1,8 +1,16 @@
 @import url("styles/cabecalho.css");
+@import url("styles/sobrenos.css");
+
 :root {
     --cor-logo: #3A404E;
     --cinza: #667085;
     --vermelho: #8E2424;
     --branco: #FFFFFF;
     --fonte-logo: "Inter", sans-serif;
+    --preto: #101828;
 }
+
+body {
+    width: 100%;
+    height: 100vh;
+  }
