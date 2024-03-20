@@ -2,7 +2,7 @@
 
   
 
-Projeto desenvolvido no desafio 7 Days of Code da Alura
+Projeto desenvolvido no desafio <a href="https://7daysofcode.io/matricula/html-css">7 Days of Code da Alura</a>
 
   
   
