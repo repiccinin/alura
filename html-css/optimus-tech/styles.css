@@ -1,5 +1,6 @@
 @import url("styles/cabecalho.css");
 @import url("styles/sobrenos.css");
+@import url("styles/metricas.css");
 
 :root {
     --cor-logo: #3A404E;

@@ -1,0 +1,40 @@
+.metricas {
+    display: flex;
+    margin: 5em 10em;
+    justify-content: center;
+}
+
+.metricas__projetos__titulo, 
+.metricas__colaboradores__titulo, 
+.metricas__downloads__titulo, 
+.metricas__reviews__titulo {
+    font-family: var(--fonte-logo);
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+    padding: 1em 0.5em;
+    width: 10vw;
+}
+
+.metricas__projetos__subtitulo, 
+.metricas__colaboradores__subtitulo, 
+.metricas__downloads__subtitulo, 
+.metricas__reviews__subtitulo {
+    font-family: var(--fonte-logo);
+    color: var(--preto);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 1em 1.5em;
+}
+
+.metricas__projetos__descricao, 
+.metricas__colaboradores__descricao, 
+.metricas__downloads__descricao, 
+.metricas__reviews__descricao {
+    font-family: var(--fonte-logo);
+    color: var(--cinza);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 1em 1.5em;
+    width: 14vw;
+}
