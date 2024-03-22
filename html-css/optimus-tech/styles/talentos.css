@@ -1,0 +1,36 @@
+.talentos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.talentos__titulo {
+    font-family: var(--fonte-logo);
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--vermelho);
+    border-radius: 24px;
+    background-color: var(--cinza-claro);
+    border: 1px solid var(--cinza-claro);
+    padding: 1em;
+    width: 5%;
+    margin: 3em 0 1em 0;
+}
+.talentos__subtitulo {
+    font-family: var(--fonte-logo);
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--preto);
+    justify-content: center;
+}
+.talentos__descricao {
+    font-family: var(--fonte-logo);
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    justify-content: center;
+    margin: 2em 0;
+}
+.talentos__imagem {
+width: 90%;
+padding: 2em 0;
+}

@@ -1,6 +1,7 @@
 @import url("styles/cabecalho.css");
 @import url("styles/sobrenos.css");
 @import url("styles/metricas.css");
+@import url("styles/talentos.css");
 
 :root {
     --cor-logo: #3A404E;
@@ -9,6 +10,7 @@
     --branco: #FFFFFF;
     --fonte-logo: "Inter", sans-serif;
     --preto: #101828;
+    --cinza-claro: #E5E5E5;
 }
 
 body {
