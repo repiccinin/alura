@@ -2,6 +2,9 @@
 @import url("styles/sobrenos.css");
 @import url("styles/metricas.css");
 @import url("styles/talentos.css");
+@import url("styles/vagas.css");
+@import url("styles/depoimento.css");
+@import url("styles/rodape.css");
 
 :root {
     --cor-logo: #3A404E;
@@ -9,8 +12,10 @@
     --vermelho: #8E2424;
     --branco: #FFFFFF;
     --fonte-logo: "Inter", sans-serif;
-    --preto: #101828;
-    --cinza-claro: #E5E5E5;
+    --preto: #101828; 
+    --cinza-claro: #E5E5E5; 
+    --vermelho-claro: #C31919;
+    --cinza-medio: #98A2B3;
 }
 
 body {

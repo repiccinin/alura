@@ -1,0 +1,29 @@
+.setor {
+    font-family: var(--fonte-logo);
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--preto);
+    margin: 2em 20em;
+}
+.vaga {
+    margin: 1em auto;
+    border: 1px solid var(--cinza-claro);
+    border-radius: 24px;
+    padding: 2em 0;
+    width: 60%;
+}
+.titulo-vaga {
+    font-family: var(--fonte-logo);
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--preto);
+    margin: 0 2em;
+}
+.informacoes {
+    font-family: var(--fonte-logo);
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza);
+    margin-top: 2em;
+    margin-left: 2em;
+}

@@ -1,0 +1,49 @@
+.depoimento {
+    display: flex;
+    justify-content: center;
+}
+.depoimento__borda {
+    border: 1px solid var(--cinza-claro);
+    border-radius: 24px;
+    width: 60%;
+    margin: 5em 0;
+}
+.depoimento__titulo {
+    font-family: var(--fonte-logo);
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--vermelho);
+    text-align: center;
+    margin: 2em 1em 1em 1em;
+    padding: 2em;
+}
+.depoimento__subtitulo {
+    font-family: var(--fonte-logo);
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--preto);
+    text-align: center;
+    text-wrap: wrap;
+}
+.depoimento__imagem {
+    padding: 1.5em;
+    margin: auto;
+    display: block;
+}
+.depoimento__nome {
+    font-family: var(--fonte-logo);
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--preto);
+    text-align: center;
+    padding: 0.5em;
+}
+.depoimento__cargo {
+    font-family: var(--fonte-logo);
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza);
+    text-align: center;
+    padding: 0.5em;
+    margin-bottom: 4em;
+}
